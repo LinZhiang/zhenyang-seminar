@@ -1,5 +1,6 @@
 # 真央研习班官网
 真央研习班官网专用仓库。
+老林在此编写了
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
